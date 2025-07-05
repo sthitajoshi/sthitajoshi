@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **how to write cleaner code**
 
-- 👯 I’m looking to collaborate on **MERN stack projects and opensource**
+- 👯 I’m looking to collaborate on **DevOps projects and opensource**
 
-- 💬 Ask me about **Node.js, JavaScript, Flutter**
+- 💬 Ask me about **Node.js, golang, kubernetes**
 
 - 📫 How to reach me **sthitajoshi@gmail.com**
 
