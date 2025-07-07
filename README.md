@@ -50,50 +50,13 @@
 
 ## 🧩 Projects
 
-| Project                        | Stack / Tools                                | Repo |
-|-------------------------------|-----------------------------------------------|------|
-| **Paytm Clone**               | React, Node.js, Express, MongoDB              | [Repo](https://github.com/sthitajoshi/paytm-clone) |
-| **GitOps Platform** *(WIP)*   | Kubernetes, ArgoCD, Helm, GitHub Actions      | –    |
-| **Monitoring System** *(WIP)* | Golang, Prometheus, Grafana, Docker           | –    |
-| **Notification Service** *(WIP)* | Go, Redis, SMTP, Twilio, Kafka            | –    |
-| **MsgBuddy (Extension)**      | React, Tailwind, ChatGPT API                  | –    |
-
----
-
-## 🧰 Tech Stack
-
-### 🛠️ DevOps & Infrastructure
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" title="Docker"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40" title="Kubernetes"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" title="NGINX"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" title="AWS"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" title="Bash"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" title="Linux"/>
-</p>
-
-### 🧪 Backend Development
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" title="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" title="Golang"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" title="Express.js"/>
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40" title="GraphQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" title="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" title="MySQL"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" title="Postman"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" title="Git"/>
-</p>
-
-### 🎨 Frontend Development
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" title="React"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" title="Next.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" title="Tailwind CSS"/>
-</p>
+| Project                        | Stack / Tools                                |
+|-------------------------------|-----------------------------------------------|
+| **Paytm Clone**               | React, Node.js, Express, MongoDB              |
+| **GitOps Platform**    | Kubernetes, ArgoCD, Helm, GitHub Actions    |
+| **Monitoring System**  | Golang, Prometheus, Grafana, Docker          |
+| **Notification Service**  | Go, Redis, SMTP, Twilio, Kafka           |
+| **MsgBuddy (Extension)**      | React, Tailwind, ChatGPT API          |
 
 ---
 
